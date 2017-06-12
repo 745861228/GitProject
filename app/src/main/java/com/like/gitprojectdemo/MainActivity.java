@@ -3,7 +3,6 @@ package com.like.gitprojectdemo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,7 +14,5 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("45" +
                 "57" +
                 "57");
-
-        TextView textView1 = new TextView(this);
     }
 }
