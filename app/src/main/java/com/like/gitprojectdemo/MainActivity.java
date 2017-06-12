@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button textView = new Button(this);
-        textView.setText("develop");
+        /**
+         * 合并分支
+         */
     }
 }
